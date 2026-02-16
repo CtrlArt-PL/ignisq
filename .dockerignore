@@ -1,0 +1,6 @@
+/target
+/data
+.env
+TODO.txt
+ignisq.db
+test.ts
