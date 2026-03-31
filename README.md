@@ -96,7 +96,7 @@ Queue multiple messages in a single request. The payload is an **array of object
 ```
 
 ## 📦 Docker Deployment
-The official IgnisQ image is available on Docker Hub. It is highly optimized, with a total size of ~24MB and a runtime footprint of ~20MB RAM.
+The official IgnisQ image is available on Docker Hub. It is highly optimized, with a total size of ~20MB and a runtime footprint of ~20MB RAM.
 
 To get the latest stable version of IgnisQ:
 ```bash
@@ -126,8 +126,9 @@ FCM_SERVICE_ACCOUNT_JSON={"type": "service_account", "project_id": "...", "priva
 
 
 ## ⚖️ License
-This project is licensed under the **Business Source License 1.1 (BSL 1.1)**.
-* **Personal & Internal Use:** Always free.
-* **Commercial Use:** Free for internal business purposes.
-* **SaaS Restriction:** You cannot sell IgnisQ as a managed service.
-* **Future Open Source:** This version will convert to Apache 2.0 on 2029-01-01.
+This project is licensed under the GNU General Public License v3.0.
+We believe that software should be open, transparent, and accessible to everyone.
+Open source is not just a development model — it’s a commitment to collaboration, freedom, and shared progress.
+You are free to use, study, modify, and distribute this software, including for commercial purposes.
+However, any distributed modifications or derivative works must also be licensed under GPL-3.0 and include the source code.
+By choosing GPL-3.0, this project ensures that improvements remain open and benefit the entire community.
